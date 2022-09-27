@@ -6,6 +6,16 @@ Repo maintainers:
 
 - [Sergey Gultyayev](https://github.com/gultyaev)
 
+## Task 2 Homework
+
+CloudFront URL => https://d1tog7k9hqreqo.cloudfront.net
+S3-website => http://eknath-shop-angular-cloudfront.s3-website.ap-south-1.amazonaws.com
+
+## Additional Info
+
+Manual Practices were done successfully, then tested all the Automated Build and Deployment process.
+Everything mentioned in the homework/assignment was executed properly.
+
 ## The purpose
 
 The repository was created to have an Angular version of e-shop for EPAM NodeJS AWS course. At the same time we strive to make this repository follows best practices so it may be used as a starter for new projects with all the necessary toolings already set up.
